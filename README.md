@@ -48,7 +48,13 @@ curl -X GET -H "Content-type: application/json"  localhost:3000/users/51
   "id": 51
 }
 ```
-
+DELETE
+```
+curl -X DELETE -H "Content-type: application/json"  localhost:3000/users/51
+```
+```
+{}
+```
 
 #More Information about Tools
 https://github.com/typicode/json-server
