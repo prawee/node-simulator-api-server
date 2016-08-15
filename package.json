@@ -1,11 +1,11 @@
 {
-  "name": "json-server",
+  "name": "node-simulator-api-server",
   "version": "1.0.0",
-  "description": "simulator api",
+  "description": "simulator api via json-server",
   "main": "facker.js",
   "scripts": {
     "test": "json-server -w facker.js"
   },
-  "author": "prawee wongsa",
+  "author": "Prawee Wongsa",
   "license": "MIT"
 }

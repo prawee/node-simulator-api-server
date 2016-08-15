@@ -1,6 +1,7 @@
 {
 	"users": [
-		{ "id":1, "name": "json-server" },
-		{ "id":2, "name": "babel coder" }
+		{ "id":1, "name": "Prawee Wongsa" },
+		{ "id":2, "name": "Pakpoom Wongsa" },
+		{ "id":3, "name": "Tanakorn Wongsa" }
 	]
 }
