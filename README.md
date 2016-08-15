@@ -1,11 +1,4 @@
 #Install or Clone
-I.open terminal
-II.use this command
-```
-git clone https://github.com/prawee/node-simulator-api-server.git <project-name>
-
-```
-Exmple
 ```
 cd /var/www/
 git clone https://github.com/prawee/node-simulator-api-server.git json-server
@@ -22,7 +15,7 @@ npm i
 #Run
 ```
 json-server --watch faker.js 
-of 
+or 
 json-server --w faker.js
 ```
 
