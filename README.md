@@ -34,6 +34,21 @@ curl -X POST -H "Content-type: application/json"  localhost:3000/users -d '{"nam
   "id": 51
 }
 ```
+GET (all)
+```
+curl -X GET -H "Content-type: application/json"  localhost:3000/users
+```
+GET (some)
+```
+curl -X GET -H "Content-type: application/json"  localhost:3000/users/51
+```
+```
+{
+  "name": "Prawee Wongsa",
+  "id": 51
+}
+```
+
 
 #More Information about Tools
 https://github.com/typicode/json-server
