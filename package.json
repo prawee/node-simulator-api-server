@@ -4,7 +4,7 @@
   "description": "simulator api via json-server",
   "main": "facker.js",
   "scripts": {
-    "test": "json-server -w facker.js"
+    "test": "json-server -w faker.js"
   },
   "author": "Prawee Wongsa",
   "license": "MIT",
