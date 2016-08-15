@@ -1,11 +1,11 @@
-#Install or Clone
+#Clone and Install
+Clone
 ```
 cd /var/www/
 git clone https://github.com/prawee/node-simulator-api-server.git json-server
 cd json-server
 ```
-
-#Npm Install
+Install Package
 ```
 npm install
 or 
