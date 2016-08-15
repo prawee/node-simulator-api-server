@@ -23,3 +23,6 @@ json-server --w faker.js
 open your browser and then 
 http://localhost:3000/users
 
+#Information
+https://github.com/typicode/json-server
+
